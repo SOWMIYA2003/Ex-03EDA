@@ -118,7 +118,7 @@ Outliers are a very important and crucial aspect of Data Analysis.
 Some Outliers are Essential and they are not removed even after applying Statistical method to remove it.
 ```
 ![Output](3x.png)
-### Infromation on Number of rows and columns are removing Ouliers:
+### Infromation on Number of rows and columns after removing Ouliers:
 ![Output](3y.png)
 ## EDA 
 ### Statistical Method of Analyzation:
