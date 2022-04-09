@@ -113,6 +113,10 @@ sns.heatmap(df_out.corr(),annot=True)
 ### Statistical Method (IQR) to remove Outliers from Dataset:
 ![Output](3k.png)
 ### Graphical Representation - After removing Outliers:
+```
+Outliers are a very important and crucial aspect of Data Analysis.
+Some Outliers are Essential and they are not removed even after applying Statistical method to remove it.
+```
 ![Output](3x.png)
 ### Infromation on Number of rows and columns are removing Ouliers:
 ![Output](3y.png)
@@ -148,14 +152,14 @@ df_out - DataFrame after handling missing data and removing outliers.
 ![Output](39.png)
 
 ### Non Categorical Data- Distributive Plot:
-#### Column-Fare:
+### Column-Fare:
 ![Output](3d1.png)
-#### Column-Age:
+### Column-Age:
 ![Output](3d2.png)
-#### Comparing Column "Survived" with Column "Age":
+### Comparing Column "Survived" with Column "Age":
 ![Output](3c1.png)
 ![Output](3c2.png)
-#### Comparing Column "SibSp" with Column "Embarked":
+### Comparing Column "SibSp" with Column "Embarked":
 ![Output](3c3.png)
 ![Output](3c4.png)
 
