@@ -165,37 +165,37 @@ df_out - DataFrame after handling missing data and removing outliers.
 
 ### Categorical Data - Bivariate Graphical:
 
-#### Comparing Columns "Pclass" and "Survived":
+### Comparing Columns "Pclass" and "Survived":
 ![Output](3g1.png)
-#### Comparing Columns "Sex" and "Survived":
+### Comparing Columns "Sex" and "Survived":
 ![Output](3g2.png)
-#### Comparing Columns "SibSp" and "Sex":
+### Comparing Columns "SibSp" and "Sex":
 ![Output](3g3.png)
-#### Comparing Columns "Embarked" and "Pclass":
+### Comparing Columns "Embarked" and "Pclass":
 ![Output](3g4.png)
-#### Comparing Columns "Survived" and "Embarked":
+### Comparing Columns "Survived" and "Embarked":
 ![Output](3g5.png)
 
 ### Statistical Method - Cross tabulation:
 
-#### Cross Tab of "Pclass" and "Survived":
+### Cross Tab of "Pclass" and "Survived":
 ![Output](1ct.png)
-#### Cross Tab of "Sex" and "Survived":
+### Cross Tab of "Sex" and "Survived":
 ![Output](1ct1.png)
-#### Cross Tab of "Pclass" and "Sex":
+### Cross Tab of "Pclass" and "Sex":
 ![Output](1ct2.png)
-#### Cross Tab of "Sex" and "Embarked":
+### Cross Tab of "Sex" and "Embarked":
 ![Output](1ct3.png)
 
 ### Correlation of columns:
 
-#### Correlation of columns in Initial DataFrame(Before removing Outliers): 
+### Correlation of columns in Initial DataFrame(Before removing Outliers): 
 ![Output](co1.png)
-#### Graphical Representation to view correlation:
+### Graphical Representation to view correlation:
 ![Output](co2.png)
-#### Correlation of columns in Final DataFrame(After removing Outliers): 
+### Correlation of columns in Final DataFrame(After removing Outliers): 
 ![Output](co3.png)
-#### Graphical Representation to view correlation:
+### Graphical Representation to view correlation:
 ![Output](co4.png)
 
 ## Result:
