@@ -123,28 +123,28 @@ df - DataFrame before handling missing data and removing Outliers.
 
 df_out - DataFrame after handling missing data and removing outliers.
 ```
-#### Insight about data in Column -Embarked:
+### Insight about data in Column -Embarked:
 ![Output](3s.png)
-#### Insight about data in Column -Pclass:
+### Insight about data in Column -Pclass:
 ![Output](3t.png)
-#### Insight about data in Column -Survived:
+### Insight about data in Column -Survived:
 ![Output](3u.png)
-#### Insight about data in Column -Sex:
+### Insight about data in Column -Sex:
 ![Output](3v.png)
-#### Insight about data in Column -SibSp:
+### Insight about data in Column -SibSp:
 ![Output](3w.png)
 
 ### Graphical Method of Analyzation:
 
-#### Analyzation of Column - Survived:
+### Analyzation of Column - Survived:
 ![Output](32.png)
-#### Analyzation of Column - Sex:
+### Analyzation of Column - Sex:
 ![Output](34.png)
-#### Analyzation of Column - Pclass:
+### Analyzation of Column - Pclass:
 ![Output](36.png)
-#### Analyzation of Column - Embarked:
+### Analyzation of Column - Embarked:
 ![Output](38.png)
-#### Analyzation of Column - SibSp:
+### Analyzation of Column - SibSp:
 ![Output](39.png)
 
 ### Non Categorical Data- Distributive Plot:
